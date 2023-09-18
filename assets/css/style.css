@@ -151,6 +151,18 @@ section {
   background: linear-gradient(-45deg, #e0e0b8, #dbb2b2);
 }
 
+.feature-1 .wrap-icon.icon-4 {
+  background-image: linear-gradient(90deg,#3b26db 1%,#7b19cb);
+}
+
+.feature-1 .wrap-icon.icon-2 {
+  background-image: linear-gradient(90deg,#0184ff 1%,#01abff);
+}
+
+.feature-1 .wrap-icon.icon-3 {
+  background-image: linear-gradient(90deg,#e45b2d,#f07921 33%,#fc9715);
+}
+
 .feature-1 .wrap-icon i {
   font-size: 40px;
   line-height: 0;
@@ -990,7 +1002,7 @@ section {
 
 .social a:hover {
   color: #fff;
-  background: #2d71a1;
+  background: #a80c0c;
 }
 
 .social a i {
